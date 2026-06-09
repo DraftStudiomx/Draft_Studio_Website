@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     siteName:        "Draft Studio",
     title:           "Draft Studio — Precision Web Studio",
     description:     "Precision web design & development for established brands. Based in Mexico, working globally.",
-    images: [{ url: "/opengraph-image", width: 1200, height: 630, alt: "Draft Studio" }],
+    images: [{ url: "https://draftstudio.mx/opengraph-image", width: 1200, height: 630, alt: "Draft Studio" }],
   },
   twitter: {
     card:        "summary_large_image",
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     creator:     "@draftstudio_mx",
     title:       "Draft Studio — Precision Web Studio",
     description: "Precision web design & development for established brands. Based in Mexico, working globally.",
-    images:      ["/opengraph-image"],
+    images:      ["https://draftstudio.mx/opengraph-image"],
   },
   robots: {
     index:  true,

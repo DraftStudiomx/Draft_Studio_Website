@@ -49,8 +49,8 @@ export default function CTA() {
       const tl = gsap.timeline({
         scrollTrigger: {
           trigger: sectionRef.current,
-          start: isMobile ? "top 90%" : "top 72%",
-          end: isMobile ? "center 40%" : "bottom 80%",
+          start: isMobile ? "top 80%" : "top 72%",
+          end: isMobile ? "bottom 20%" : "bottom 80%",
           scrub: 0.6,
         },
       });
