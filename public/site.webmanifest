@@ -1,0 +1,21 @@
+{
+  "name": "Draft Studio",
+  "short_name": "Draft Studio",
+  "description": "Estudio digital global con base en León, Guanajuato.",
+  "icons": [
+    {
+      "src": "/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#0E0E12",
+  "background_color": "#F1EEE5",
+  "display": "standalone",
+  "start_url": "/"
+}

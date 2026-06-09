@@ -1,0 +1,141 @@
+{
+  "nav": {
+    "work": "Work",
+    "studio": "Studio",
+    "services": "Services",
+    "contact": "Contact",
+    "cta": "Start a project →"
+  },
+  "hero": {
+    "eyebrow": "Precision web studio · Mexico · Global",
+    "line1": "We build websites",
+    "line2": "that make your",
+    "line3accent": "competition",
+    "line3end": " nervous.",
+    "sub": "Precision web design & development for established brands and luxury companies ready for world-class results.",
+    "viewWork": "View our work",
+    "startProject": "Start a project →",
+    "baseMid": "Selected studio · Global delivery",
+    "baseScroll": "Scroll"
+  },
+  "marquee": {
+    "label": "Trusted by"
+  },
+  "work": {
+    "index": "Work — Index",
+    "subtitle": "Selected projects — 2025",
+    "viewAll": "View all work",
+    "moreSoon": "More coming soon",
+    "nextPlaceholderTitle": "Next project",
+    "nextPlaceholderSub": "— Coming soon",
+    "sectionLabel": "/ 04  Work",
+    "projectsCount": "projects",
+    "viewAllWork": "View our work"
+  },
+  "cta": {
+    "label": "/ 06  Let's build",
+    "sub": "Let's talk about your project. No commitments, no templates.",
+    "btn": "Start a project →"
+  },
+  "philosophy": {
+    "label": "/ 03  Philosophy"
+  },
+  "process": {
+    "label": "/ 05  Process",
+    "stepsCount": "[ 04 steps ]"
+  },
+  "case": {
+    "breadcrumb": "Work",
+    "caseStudy": "Case Study",
+    "labelClient": "Client",
+    "labelCategory": "Category",
+    "labelYear": "Year",
+    "labelLive": "Live",
+    "challenge": "Challenge",
+    "approach": "Approach",
+    "solution": "Solution",
+    "nextProject": "Next project",
+    "figCaption": "Fig. 01"
+  },
+  "contact": {
+    "eyebrow": "/ Contact — Say hello",
+    "h1": "Let's talk.",
+    "sub": "Tell us about your project. We'll get back to you within 24 hours.",
+    "infoEmail": "Email",
+    "infoPhone": "Phone",
+    "infoLocation": "Location",
+    "locationValue": "Mexico · Working globally",
+    "fieldName": "Name",
+    "fieldNamePlaceholder": "Your full name",
+    "fieldEmail": "Email",
+    "fieldEmailPlaceholder": "you@company.com",
+    "fieldCompany": "Company",
+    "fieldCompanyOptional": "(optional)",
+    "fieldCompanyPlaceholder": "Company name",
+    "fieldNeed": "What do you need?",
+    "fieldNeedPlaceholder": "Select a service",
+    "fieldProject": "Tell us about your project",
+    "fieldProjectPlaceholder": "A few lines about what you're building, your timeline, and your goals.",
+    "errorName": "Name is required.",
+    "errorEmail": "Email is required.",
+    "errorEmailInvalid": "Enter a valid email.",
+    "errorProject": "Tell us a bit about your project.",
+    "errorServer": "Something went wrong. Try again or email us directly at hola@draftstudio.mx.",
+    "btnSend": "Send message →",
+    "btnSending": "Sending…",
+    "btnSent": "Message sent ✓",
+    "successMsg": "Thanks — your message is on its way. We'll reply within 24 hours."
+  },
+  "studio": {
+    "eyebrow": "/ Studio — About",
+    "subline": "A precision web studio based in Mexico, building for brands that mean business.",
+    "sublineMexico": "Mexico",
+    "whoLabel": "/ 01  Who we are",
+    "quote": "We don't do templates. We don't do",
+    "quoteAccent": "average.",
+    "valuesLabel": "/ 02  Values",
+    "valuesPrinciples": "[ 03 principles ]",
+    "processLabel": "/ 03  Process",
+    "processSteps": "[ 04 steps ]",
+    "ctaLabel": "/ 04  Let's build",
+    "ctaHeadline1": "Let's build",
+    "ctaHeadline2": "something",
+    "ctaHeadline3": "together.",
+    "ctaSub": "Tell us about your project. No commitments, no templates.",
+    "ctaBtn": "Start a project →"
+  },
+  "services": {
+    "eyebrow": "/ Services — What we do",
+    "h1": "Services",
+    "whatWeDo": "What we do — and how we do it.",
+    "disciplines": "06 disciplines",
+    "deliverables": "Deliverables",
+    "ctaLabel": "/ 07  Let's build",
+    "ctaHeadline": "Ready to build something remarkable?",
+    "ctaLetsBuild": "Let's build",
+    "ctaReadyStart": "Ready to start?",
+    "ctaSub": "Tell us about your project. No commitments, no templates.",
+    "ctaBtn": "Start a project →",
+    "svc01name": "Web Design",
+    "svc01desc": "Brand-aligned, conversion-focused design for companies that take their presence seriously.",
+    "svc02name": "Web Development",
+    "svc02desc": "Next.js, performance-first, built to last.",
+    "svc03name": "SEO",
+    "svc03desc": "We make sure your clients find you before they find your competition.",
+    "svc04name": "Branding",
+    "svc04desc": "Visual identity for companies ready to own their market.",
+    "svc05name": "AI & Automation",
+    "svc05desc": "Intelligent systems that do the busywork — so your team can focus on what matters.",
+    "svc06name": "Maintenance & Support",
+    "svc06desc": "We stay on after launch. Your site, always sharp."
+  },
+  "footer": {
+    "tagline": "Precision web studio",
+    "menu": "Menu",
+    "connect": "Connect",
+    "start": "Start a project →",
+    "rights": "© 2026 Draft Studio. All rights reserved.",
+    "privacy": "Privacy Notice",
+    "terms": "Terms"
+  }
+}

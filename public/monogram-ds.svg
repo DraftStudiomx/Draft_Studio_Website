@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" fill="none" role="img" aria-label="Draft Studio">
+  <g stroke="#0E0E12" stroke-width="3" fill="none" stroke-linecap="square">
+    <path d="M14 30V14H30"></path>
+    <path d="M90 14H106V30"></path>
+    <path d="M106 90V106H90"></path>
+    <path d="M30 106H14V90"></path>
+  </g>
+  <text x="60" y="78" text-anchor="middle" font-family="Geist, &#39;Geist Variable&#39;, system-ui, sans-serif" font-weight="600" font-size="50" letter-spacing="-2.6" fill="#0E0E12">DS</text>
+  <circle cx="98" cy="100" r="2.4" fill="#2B41E5"></circle>
+</svg>

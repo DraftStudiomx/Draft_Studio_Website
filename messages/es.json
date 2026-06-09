@@ -1,0 +1,141 @@
+{
+  "nav": {
+    "work": "Proyectos",
+    "studio": "Studio",
+    "services": "Servicios",
+    "contact": "Contacto",
+    "cta": "Iniciar proyecto →"
+  },
+  "hero": {
+    "eyebrow": "Precision web studio · México · Global",
+    "line1": "Construimos sitios",
+    "line2": "web que hacen que",
+    "line3accent": "tu competencia",
+    "line3end": " se preocupe.",
+    "sub": "Diseño y desarrollo de precisión para marcas que ya no toleran lo mediocre.",
+    "viewWork": "Ver proyectos",
+    "startProject": "Iniciar proyecto →",
+    "baseMid": "Estudio selecto · Entrega global",
+    "baseScroll": "Scroll"
+  },
+  "marquee": {
+    "label": "Confían en nosotros"
+  },
+  "philosophy": {
+    "label": "/ 03  Filosofía"
+  },
+  "work": {
+    "index": "Proyectos — Índice",
+    "subtitle": "Proyectos seleccionados — 2025",
+    "viewAll": "Ver todos los proyectos",
+    "moreSoon": "Más proyectos próximamente",
+    "nextPlaceholderTitle": "Tu proyecto aquí",
+    "nextPlaceholderSub": "— Trabajemos juntos",
+    "sectionLabel": "/ 04  Proyectos",
+    "projectsCount": "proyectos",
+    "viewAllWork": "Ver proyectos"
+  },
+  "cta": {
+    "label": "/ 06  Hagamos Web",
+    "sub": "Cuéntanos lo que tienes en mente. Sin plantillas, sin sorpresas.",
+    "btn": "Iniciar proyecto →"
+  },
+  "process": {
+    "label": "/ 05  Proceso",
+    "stepsCount": "[ 04 pasos ]"
+  },
+  "case": {
+    "breadcrumb": "Proyectos",
+    "caseStudy": "Caso de estudio",
+    "labelClient": "Cliente",
+    "labelCategory": "Categoría",
+    "labelYear": "Año",
+    "labelLive": "En vivo",
+    "challenge": "Reto",
+    "approach": "Enfoque",
+    "solution": "Solución",
+    "nextProject": "Próximo proyecto",
+    "figCaption": "Fig. 01"
+  },
+  "contact": {
+    "eyebrow": "/ Contacto — Cuéntanos",
+    "h1": "Hablemos.",
+    "sub": "Cuéntanos qué estás construyendo. Respondemos en menos de 24 horas.",
+    "infoEmail": "Correo",
+    "infoPhone": "Teléfono",
+    "infoLocation": "Ubicación",
+    "locationValue": "México · Entrega global",
+    "fieldName": "Nombre",
+    "fieldNamePlaceholder": "Tu nombre completo",
+    "fieldEmail": "Correo electrónico",
+    "fieldEmailPlaceholder": "tu@empresa.com",
+    "fieldCompany": "Empresa",
+    "fieldCompanyOptional": "(opcional)",
+    "fieldCompanyPlaceholder": "Nombre de la empresa",
+    "fieldNeed": "¿Qué necesitas?",
+    "fieldNeedPlaceholder": "Selecciona un servicio",
+    "fieldProject": "Tu proyecto en pocas palabras",
+    "fieldProjectPlaceholder": "Qué estás construyendo, cuándo lo necesitas y qué resultado esperas.",
+    "errorName": "Necesitamos tu nombre.",
+    "errorEmail": "Necesitamos tu correo.",
+    "errorEmailInvalid": "Ese correo no parece válido.",
+    "errorProject": "Cuéntanos aunque sea un par de líneas sobre tu proyecto.",
+    "errorServer": "Algo salió mal. Inténtalo de nuevo o escríbenos directo a hola@draftstudio.mx.",
+    "btnSend": "Enviar mensaje →",
+    "btnSending": "Enviando…",
+    "btnSent": "Mensaje enviado ✓",
+    "successMsg": "Recibido — te respondemos en menos de 24 horas. Gracias por escribirnos."
+  },
+  "studio": {
+    "eyebrow": "/ Studio — Quiénes somos",
+    "subline": "Estudio web de precisión con base en México. Para marcas que van en serio.",
+    "sublineMexico": "México",
+    "whoLabel": "/ 01  Quiénes somos",
+    "quote": "No repetimos fórmulas. No hacemos",
+    "quoteAccent": "lo de siempre.",
+    "valuesLabel": "/ 02  Valores",
+    "valuesPrinciples": "[ 03 principios ]",
+    "processLabel": "/ 03  Proceso",
+    "processSteps": "[ 04 pasos ]",
+    "ctaLabel": "/ 04  Hagamos Web",
+    "ctaHeadline1": "Construyamos",
+    "ctaHeadline2": "algo que",
+    "ctaHeadline3": "valga la pena.",
+    "ctaSub": "Cuéntanos lo que tienes en mente. Sin plantillas, sin rodeos.",
+    "ctaBtn": "Iniciar proyecto →"
+  },
+  "services": {
+    "eyebrow": "/ Servicios — Lo que hacemos",
+    "h1": "Servicios",
+    "whatWeDo": "Lo que hacemos — y por qué lo hacemos bien.",
+    "disciplines": "06 servicios",
+    "deliverables": "Incluye",
+    "ctaLabel": "/ 07  Hagamos Web",
+    "ctaHeadline": "¿Listo para construir algo que valga la pena?",
+    "ctaLetsBuild": "Hagamos Web",
+    "ctaReadyStart": "¿Por dónde empezamos?",
+    "ctaSub": "Cuéntanos tu proyecto. Sin compromisos, sin plantillas.",
+    "ctaBtn": "Iniciar proyecto →",
+    "svc01name": "Diseño Web",
+    "svc01desc": "Tu sitio es la primera impresión que no puedes repetir. Diseñamos experiencias que se ven bien, se sienten bien y llevan al usuario exactamente a donde tú necesitas.",
+    "svc02name": "Desarrollo Web",
+    "svc02desc": "Velocidad real, código limpio y cero atajos. Lo que entregamos funciona hoy y sigue funcionando cuando tu negocio escale.",
+    "svc03name": "SEO",
+    "svc03desc": "Un sitio que nadie encuentra es un sitio que no existe. Te posicionamos antes que a tu competencia, con estrategia técnica y de contenido que da resultados reales.",
+    "svc04name": "Branding",
+    "svc04desc": "Tu identidad visual habla antes de que lo hagas tú. La construimos para que sea inconfundiblemente tuya y aguante el paso del tiempo.",
+    "svc05name": "IA & Automatización",
+    "svc05desc": "Lo que hoy te quita tiempo y dinero, mañana puede correr solo. Integramos inteligencia artificial y automatizaciones para que tu equipo se enfoque en lo que sí importa.",
+    "svc06name": "Mantenimiento & Soporte",
+    "svc06desc": "Lanzar es solo el inicio. Nos quedamos contigo para mantener tu sitio rápido, seguro y funcionando — sin que tengas que preocuparte por nada."
+  },
+  "footer": {
+    "tagline": "Precision web studio",
+    "menu": "Menú",
+    "connect": "Conectar",
+    "start": "Iniciar proyecto →",
+    "rights": "© 2026 Draft Studio. Todos los derechos reservados.",
+    "privacy": "Aviso de Privacidad",
+    "terms": "Términos"
+  }
+}

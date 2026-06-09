@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" fill="none" role="img" aria-label="Draft Studio">
+  <g stroke="#0E0E12" stroke-width="3" fill="none" stroke-linecap="square">
+    <path d="M14 30V14H30"></path>
+    <path d="M90 14H106V30"></path>
+    <path d="M106 90V106H90"></path>
+    <path d="M30 106H14V90"></path>
+  </g>
+  <path d="M38 35H65C77.7025 35 88 45.2975 88 58V62C88 74.7025 77.7025 85 65 85H38V35Z" stroke="#0E0E12" stroke-width="3.4" fill="none"></path>
+</svg>
