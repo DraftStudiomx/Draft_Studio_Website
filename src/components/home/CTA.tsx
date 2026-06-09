@@ -44,11 +44,13 @@ export default function CTA() {
     const ctx = gsap.context(() => {
       gsap.set(els, { color: DIM });
 
+      const isMobile = window.innerWidth < 768;
+
       const tl = gsap.timeline({
         scrollTrigger: {
           trigger: sectionRef.current,
-          start: "top 72%",
-          end: "bottom 80%",
+          start: isMobile ? "top 90%" : "top 72%",
+          end: isMobile ? "center 40%" : "bottom 80%",
           scrub: 0.6,
         },
       });
