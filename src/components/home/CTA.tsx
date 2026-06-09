@@ -50,7 +50,7 @@ export default function CTA() {
         scrollTrigger: {
           trigger: sectionRef.current,
           start: isMobile ? "top 80%" : "top 72%",
-          end: isMobile ? "bottom 20%" : "bottom 80%",
+          end: isMobile ? `+=${window.innerHeight * 1.5}` : "bottom 80%",
           scrub: 0.6,
         },
       });
