@@ -5,7 +5,12 @@ export const alt     = "Draft Studio — Precision Web Studio";
 export const size    = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
-export default function OgImage() {
+export default async function OgImage() {
+  // Fetch Inter font from Google Fonts for edge runtime
+  const interBold = await fetch(
+    "https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZ9hiJ-Ek-_EeA.woff"
+  ).then((res) => res.arrayBuffer());
+
   return new ImageResponse(
     (
       <div
@@ -17,7 +22,7 @@ export default function OgImage() {
           justifyContent:  "space-between",
           background:      "#0E0E12",
           padding:         "72px 80px",
-          fontFamily:      "system-ui, sans-serif",
+          fontFamily:      "Inter, sans-serif",
         }}
       >
         {/* Top: wordmark */}
@@ -27,7 +32,7 @@ export default function OgImage() {
             <div style={{ width: "10px", height: "34px", background: "#2B41E5", borderRadius: "2px" }} />
             <div style={{ width: "10px", height: "34px", background: "#F1EEE5", borderRadius: "2px", opacity: 0.6 }} />
           </div>
-          <span style={{ fontSize: "22px", fontWeight: 600, color: "#F1EEE5", letterSpacing: "-0.03em" }}>
+          <span style={{ fontSize: "22px", fontWeight: 700, color: "#F1EEE5", letterSpacing: "-0.03em" }}>
             Draft Studio
           </span>
         </div>
@@ -38,7 +43,7 @@ export default function OgImage() {
             fontSize:      "72px",
             fontWeight:    700,
             color:         "#F1EEE5",
-            lineHeight:    0.92,
+            lineHeight:    "0.92",
             letterSpacing: "-0.045em",
           }}>
             Precision
@@ -70,6 +75,16 @@ export default function OgImage() {
         </div>
       </div>
     ),
-    { ...size }
+    {
+      ...size,
+      fonts: [
+        {
+          name: "Inter",
+          data: interBold,
+          style: "normal",
+          weight: 700,
+        },
+      ],
+    }
   );
 }
