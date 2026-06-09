@@ -13,7 +13,8 @@ export default function OgImage() {
   return new ImageResponse(
     (
       <div style={{ width: "1200px", height: "630px", display: "flex", flexDirection: "column", justifyContent: "space-between", background: "#0E0E12", padding: "72px 80px" }}>
-        <img src={logoSrc} width={280} height={70} style={{ objectFit: "contain", objectPosition: "left" }} />
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src={logoSrc} alt="" width={280} height={56} style={{ display: "block" }} />
         <div style={{ display: "flex", flexDirection: "column" }}>
           <span style={{ fontSize: "80px", fontWeight: "bold", color: "#F1EEE5", lineHeight: "1" }}>Precision</span>
           <span style={{ fontSize: "80px", fontWeight: "bold", color: "#2B41E5", lineHeight: "1" }}>Web Studio.</span>

@@ -52,6 +52,7 @@ export default function CTA() {
           start: isMobile ? "top 80%" : "top 72%",
           end: isMobile ? `+=${window.innerHeight * 1.5}` : "bottom 80%",
           scrub: 0.6,
+          invalidateOnRefresh: true,
         },
       });
 
@@ -68,7 +69,13 @@ export default function CTA() {
       });
     }, sectionRef);
 
-    return () => ctx.revert();
+    // Recalculate trigger positions after fonts/images settle (mobile layout shifts)
+    const refreshTimer = window.setTimeout(() => ScrollTrigger.refresh(), 400);
+
+    return () => {
+      window.clearTimeout(refreshTimer);
+      ctx.revert();
+    };
   }, [locale, words]);
 
   return (
